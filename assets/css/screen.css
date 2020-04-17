@@ -165,7 +165,9 @@ body {
     padding: 0;
     font-size: 5.0rem;
     line-height: 1em;
-    font-weight: 600;
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
 }
 
 .site-logo {
@@ -357,10 +359,10 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     padding: 12px 0;
     color: #fff;
     font-size: 1.7rem;
-    line-height: 1.8rem;
-    font-weight: bold;
-    letter-spacing: -0.5px;
-    text-transform: none;
+    line-height: 2.0rem;
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
 }
 
 .site-nav-logo:hover {
