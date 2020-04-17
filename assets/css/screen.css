@@ -165,6 +165,10 @@ body {
     padding: 0;
     font-size: 5.0rem;
     line-height: 1em;
+    font-weight: 600;
+}
+
+.site-home-header .site-title {
     font-weight: 800;
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
